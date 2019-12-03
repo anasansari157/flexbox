@@ -1,0 +1,13 @@
+img {
+    width: 400px;
+    height: 250px;
+    margin: 20px;
+    box-shadow: 5px 5px 10px gray;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-content: space-eve;
+}
